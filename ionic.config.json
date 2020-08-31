@@ -1,5 +1,8 @@
 {
   "name": "plop",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "4087f94e"
 }
